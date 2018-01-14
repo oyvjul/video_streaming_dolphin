@@ -1,0 +1,12 @@
+Building
+~~~~~~~~
+  1. cd into "read_write_machine" & "processing_machine"
+
+  2. Build the project in dir "read_write_machine" & "processing_machine" with make.
+
+Running
+~~~~~~~
+  1. for running the project you have to specify the number of frames you want to encode.
+     check the makefile for in dir "read_write_machine" & "processing_machine" for an illustration.
+     
+  2. the final output is stored in /read_write_machine/temp

@@ -1,0 +1,2 @@
+==11264== NVPROF is profiling process 11264, command: ./c63enc -w 352 -h 288 -f 50 -e out.c63 /mnt/sdcard/foreman.yuv
+==11264== Error: Cannot create profiling file: /mnt/home/inf5063-g14/exam-2/codec/profile.nvvp
